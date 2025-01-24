@@ -1,0 +1,23 @@
+number_of_meshes 3
+
+mesh_paths 
+"..\assets\cubeMapObject.ply" 6
+"..\output.ply" 1
+"..\3D_models\Walls\SM_Env_Dwarf_Wall_Archway_01.ply" 1
+
+mesh_transforms
+0.0 0.0 0.0  1000000.0 1000000.0 1000000.0  0 0 0 
+23650.0 -100.0 -12200.0  1.0 1.0 1.0  0 -90 0 
+9551.0 0.0 6986.0  1.0 1.0 1.0  23 -90 0 
+
+mesh_textures
+"..\textures\CubeMaps\newCubeMapRT.bmp"
+"..\textures\CubeMaps\newCubeMapLF.bmp"
+"..\textures\CubeMaps\newCubeMapDN.bmp"
+"..\textures\CubeMaps\newCubeMapUP.bmp"
+"..\textures\CubeMaps\newCubeMapFT.bmp"
+"..\textures\CubeMaps\newCubeMapBK.bmp"
+
+"..\terrainWithDiscard.bmp"
+
+"..\3D_models\z_Dungeon_Textures\Dungeons_2_Texture_01_A\Dungeons_2_Texture_01_A.bmp"
